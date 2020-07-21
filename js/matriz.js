@@ -121,9 +121,6 @@ function draw() {
                 }
             }
 
-
-
-            // anchoAux -= 1;
             if (altoAux > -1) {
                 if (anchoAux > -1) {
                     if (altoAux == 0 && anchoAux == 0) {
